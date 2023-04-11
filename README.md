@@ -39,6 +39,11 @@ Link :  https://www.kaggle.com/saurav9786/amazon-product-reviews?fbclid=IwAR26xf
 
 The dataset here is taken from the above website.
 
+## Project Description:
+Link: https://drive.google.com/file/d/1rECq19GyVD4Rq2YHhjtakzwTm3ytAkXO/view?usp=sharing
+
+The .ipynb file can be found in the above link. In that you can found the role projects in detail
+
 ### Domain: 
 E-commerce
 
